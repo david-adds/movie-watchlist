@@ -84,6 +84,3 @@ def get_watched_movies(username):
         cursor.execute(SELECT_WATCHED_MOVIES, (username,))
         return cursor.fetchall()
     
-
-
-    

@@ -13,7 +13,7 @@ menu = """Please select one of the following options:
 
 Your selection: """
 
-welcome = "/nWelcome to the watchlist app!/n"
+welcome = "\nWelcome to the watchlist app!\n"
 
 print(welcome)
 database.create_tables()
