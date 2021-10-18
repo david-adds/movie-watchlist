@@ -1,3 +1,2 @@
 # movie_watchlist
-App to create a movie watchlist.
-# movie-watchlist
+App to create a movie watchlist with a database.
