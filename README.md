@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Movie Watchlist
 
 ### App to create a movie watchlist. 
@@ -16,11 +16,3 @@ For learning and practice purposes, a menu was implemented in Python, in which o
 
 There is a database in SQLite and a Database in postgreSQL as well for this app.
 
-=======
-# movie_watchlist
-<<<<<<< HEAD
-App to create a movie watchlist.
-=======
-Movie watchlist app with a database.
->>>>>>> 320568f41ba90501eeb6f5a25e6604f6d1a0dbd4
->>>>>>> 4abb880b5158a17d2709866570a059a70ea54369
