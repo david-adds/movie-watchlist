@@ -14,5 +14,5 @@ For learning and practice purposes, a menu was implemented in Python, in which o
 7. Search for a movie
 8. Exit
 
-There is a database in SQLite and a Database in postgreSQL as well for this app.
+There is a database in SQLite and, a database in postgreSQL as well for this app.
 
